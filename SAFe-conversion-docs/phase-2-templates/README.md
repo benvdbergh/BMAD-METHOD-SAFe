@@ -1,10 +1,10 @@
 # Phase 2: SAFe Templates & Artifacts
 
 ## Goal
-Define all SAFe document types and their specifications to ensure consistent, high-quality outputs across the organization.
+Define all SAFe document types and their specifications to ensure consistent, high-quality outputs across the organization while maintaining document integrity through enhancement rather than rewriting.
 
 ## Overview
-This phase creates the templates and document specifications that will be used by agents to generate SAFe-compliant artifacts. Each template must align with SAFe best practices and provide clear guidance for content creation.
+This phase creates the templates and document specifications that will be used by agents to generate SAFe-compliant artifacts. Each template must align with SAFe best practices, provide clear guidance for content creation, and support document enhancement without full rewrites.
 
 ## Implementation Steps
 
@@ -40,19 +40,27 @@ This phase creates the templates and document specifications that will be used b
   - [ ] Add solution architecture and design decisions
   - [ ] Include compliance and regulatory requirements
 
-- [ ] **2.2.2** Solution Backlog Template
+- [ ] **2.2.2** Product Capability Template
+  - [ ] Define product capability structure and description
+  - [ ] Include capability functionality and scope
+  - [ ] Add product assignment and system integration
+  - [ ] Include feature history and version tracking
+  - [ ] Add MBSE model references
+  - [ ] Include capability dependencies and interfaces
+
+- [ ] **2.2.3** Solution Backlog Template
   - [ ] Define solution backlog structure
-  - [ ] Include feature prioritization and scoring
+  - [ ] Include feature prioritization and product capability assignment
   - [ ] Add cross-ART dependency mapping
   - [ ] Include solution demo planning and preparation
 
-- [ ] **2.2.3** Solution Demo Template
+- [ ] **2.2.4** Solution Demo Template
   - [ ] Define solution demo structure
   - [ ] Include demo scenarios and user journeys
   - [ ] Add stakeholder feedback collection
   - [ ] Include demo preparation and execution guidelines
 
-- [ ] **2.2.4** Solution Architecture Template
+- [ ] **2.2.5** Solution Architecture Template
   - [ ] Define solution architecture structure
   - [ ] Include system design and integration points
   - [ ] Add technology stack and infrastructure requirements
@@ -62,7 +70,12 @@ This phase creates the templates and document specifications that will be used b
 - [ ] **2.3.1** Feature Template
   - [ ] Define feature structure and acceptance criteria
   - [ ] Include business value and user impact
-  - [ ] Add technical implementation considerations
+  - [ ] Add target product capability assignment
+  - [ ] Include enhancement type (new vs. enhancement of existing)
+  - [ ] Include modular structure for targeted updates
+  - [ ] Add version control and enhancement tracking
+  - [ ] Include technical implementation considerations
+  - [ ] Add MBSE integration requirements
   - [ ] Include testing and validation requirements
 
 - [ ] **2.3.2** PI Objectives Template
@@ -94,6 +107,8 @@ This phase creates the templates and document specifications that will be used b
   - [ ] Define user story structure (As a... I want... So that...)
   - [ ] Include acceptance criteria and definition of done
   - [ ] Add story points and estimation
+  - [ ] Include modular structure for targeted updates
+  - [ ] Add version control and enhancement tracking
   - [ ] Include testing and validation requirements
 
 - [ ] **2.4.2** Team Backlog Template
@@ -132,6 +147,25 @@ This phase creates the templates and document specifications that will be used b
   - [ ] Include quality criteria and standards
   - [ ] Add testing strategies and validation
   - [ ] Include quality monitoring and reporting
+
+### 2.6 Document Consistency Templates
+- [ ] **2.6.1** Enhancement Tracking Template
+  - [ ] Define enhancement history structure
+  - [ ] Include version control and change tracking
+  - [ ] Add enhancement rationale and decision points
+  - [ ] Include audit trail and compliance tracking
+
+- [ ] **2.6.2** Document Version Control Template
+  - [ ] Define version control structure
+  - [ ] Include change tracking and history
+  - [ ] Add rollback and recovery procedures
+  - [ ] Include consistency validation rules
+
+- [ ] **2.6.3** Enhancement Decision Template
+  - [ ] Define enhancement vs. new creation decision criteria
+  - [ ] Include impact assessment and risk analysis
+  - [ ] Add stakeholder approval and sign-off
+  - [ ] Include implementation planning and tracking
 
 ## Implementation Notes
 

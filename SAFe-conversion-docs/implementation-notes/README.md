@@ -35,16 +35,22 @@
 ## Key Decisions Log
 
 ### Decision 1: Implementation Approach
-**Date**: [Current Date]
+**Date**: [15-10-2025]
 **Decision**: Adopt systems thinking methodology with 4-phase approach
 **Rationale**: Ensures proper foundation before building components
 **Impact**: More maintainable and robust system design
 
-### Decision 2: [Future Decision]
-**Date**: [Future Date]
-**Decision**: [Decision description]
-**Rationale**: [Rationale]
-**Impact**: [Impact]
+### Decision 2: Include Capabilities in SAFe Work Item Hierarchy
+**Date**: [17-10-2025]
+**Decision**: Add Capabilities as a key work item between Epics and Features in Large Solution SAFe
+**Rationale**: Capabilities are essential for coordinating across multiple ARTs and managing complex solution behaviors
+**Impact**: More accurate SAFe implementation with proper work item hierarchy
+
+### Decision 3: MBSE Integration with Product Capability Approach
+**Date**: [17-10-2025]
+**Decision**: Implement MBSE-driven product capability management where features enhance stable capability buckets
+**Rationale**: Aligns with sophisticated product capability management where capabilities are architectural entities, not work items
+**Impact**: Enables stable capability architecture with features filling capability buckets incrementally
 
 ## Challenges & Resolutions
 
